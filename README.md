@@ -67,7 +67,7 @@
 #### コメント
 
 ログ環境の整備には、[自作ライブラリ](https://github.com/haradashinya/cloud_logger)を使用。
-Vue コンポーネントの分割は [Atomic Design](https://qiita.com/hareku/items/04705fcf92cc80ec4095) を採用して、再利用性の高いコンポーネント設計を心がけている。
+Vue コンポーネントの分割は [Atomic Design](https://qiita.com/hareku/items/04705fcf92cc80ec4095) を採用し、再利用性の高いコンポーネント設計を心がけている。
 
 ### 2019/8- 2019/9 : 監視カメラシステム
 
